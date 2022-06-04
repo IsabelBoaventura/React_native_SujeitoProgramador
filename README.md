@@ -120,6 +120,21 @@ Para ter acesso no próprio celular, tem de baixar o `Expo Go` depois abre a cam
 
 ![image](https://user-images.githubusercontent.com/1613816/172027733-33f60ca3-98f8-4662-bf80-fcac0084cbcd.png)
 
+Para começar vamos limpar tudo o que já venho pré programado, e começar o nosso do zero. 
+
+
+Importando o React;
+A medida que for criando os codigos será comentado dentro dos códigos.
+
+Criando novas pastas e arquivos:
+
+(pasta) src
+    (pasta) pages
+        (pasta) Home
+            (arquivo) index.js
+
+
+
 
 
 
