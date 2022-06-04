@@ -128,11 +128,11 @@ A medida que for criando os codigos será comentado dentro dos códigos.
 
 Criando novas pastas e arquivos:
 
--(pasta) src
+- (pasta) src
    - (pasta) pages
         - (pasta) Home
             - (arquivo) index.js
-            - 
+            
 
 
 
