@@ -115,6 +115,15 @@ Para ter acesso no próprio celular, tem de baixar o `Expo Go` depois abre a cam
 ## Vamos programar
 
 
+`App.js` é a nossa páginma principal. 
+
+
+![image](https://user-images.githubusercontent.com/1613816/172027733-33f60ca3-98f8-4662-bf80-fcac0084cbcd.png)
+
+
+
+
+
 
 
 
