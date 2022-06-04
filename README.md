@@ -98,6 +98,18 @@ Dentro da pasta vamos dar o comando para rodar o aplicativo
 
     `expo start` 
 
-Vai gerar o QR Code do aplicativo e o endereço para acessar: `http://localhost:19002` acessando este endereço tens como ir para o site
+Vai gerar o QR Code do aplicativo e o endereço para acessar: `http://localhost:19002` acessando este endereço tens como ir para o site. 
+
+Esta é a primeira tela do site:
+
+![image](https://user-images.githubusercontent.com/1613816/172027210-d795e43c-7ab3-429f-b4dc-852ea5bafdcd.png)
+
+Rodando no Emulador
+
+![image](https://user-images.githubusercontent.com/1613816/172027229-fe563eb9-6be0-4759-8bfe-7824cb548e34.png)
+
+
+
+
 
 
