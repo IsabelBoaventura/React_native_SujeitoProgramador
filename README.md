@@ -49,6 +49,7 @@ Depois de instalar o Android Studio,abra ele ( emulador Android Studio ), instal
 Para configurar a Api, qual o sistema do Android que se quer emular que se esta trabalhando.
 
 Configurações:
+    
     Appearance & Behavior 
         System Setting 
             Android SDK 
