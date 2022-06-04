@@ -129,20 +129,10 @@ A medida que for criando os codigos será comentado dentro dos códigos.
 Criando novas pastas e arquivos:
 
 -(pasta) src
-    - (pasta) pages
+   - (pasta) pages
         - (pasta) Home
             - (arquivo) index.js
-
-
-
-
-
-
-
-
-
-
-
+            - 
 
 
 
