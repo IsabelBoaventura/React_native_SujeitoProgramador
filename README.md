@@ -110,6 +110,15 @@ Rodando no Emulador
 ![image](https://user-images.githubusercontent.com/1613816/172027229-fe563eb9-6be0-4759-8bfe-7824cb548e34.png)
 
 
+Para ter acesso no próprio celular, tem de baixar o `Expo Go` depois abre a camera do celular e aponta para o QRCode .
+
+## Vamos programar
+
+
+
+
+
+
 
 
 
