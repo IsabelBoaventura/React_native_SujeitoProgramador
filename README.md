@@ -33,27 +33,6 @@ Nesta página principal  DOCS terá as informações de como instalar a bibliote
 
 No terminal do VSCode a primeira linha ja deu certo. 
 
-
-Voltando para o sistema.
-Dentro da pasta `src` será criado o arquivo `routes.js`para a navegação do sistema.
-
-Criada a rota, e exportado para o arquivo app.js 
-
-![image](https://user-images.githubusercontent.com/1613816/172032049-c11d7ad9-36b3-4140-9d54-7720542dcb23.png)
-
-
-Estou abrindo no navegador, e Emulador tem de aprender a trabalhar com ele. 
-
-Agora vamos criar as páginas seguintes,  pelo menos a estrutura delas. 
-
-- (pasta) pages
-  - (pasta) Details [ detalhes ]
-    - index.js 
-
-
-
-
-
 ## Criar o aplicativo
 
 Rodando no celular e rodando no celular ou usando o Emulador 
@@ -200,5 +179,27 @@ Instalado com sucesso.
 Agora rodar novamente o projeto `expo start` .
 
 Interessante 'expo start' não funciona dentro do terminal do VSCode,  mas no terminal normal funciona. 
+
+
+
+
+Voltando para o sistema.
+Dentro da pasta `src` será criado o arquivo `routes.js`para a navegação do sistema.
+
+Criada a rota, e exportado para o arquivo app.js 
+
+![image](https://user-images.githubusercontent.com/1613816/172032049-c11d7ad9-36b3-4140-9d54-7720542dcb23.png)
+
+
+Estou abrindo no navegador, e Emulador tem de aprender a trabalhar com ele. 
+
+Agora vamos criar as páginas seguintes,  pelo menos a estrutura delas. 
+
+- (pasta) pages
+  - (pasta) Details [ detalhes ]
+    - index.js 
+
+
+
 
 
