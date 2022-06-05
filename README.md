@@ -152,6 +152,10 @@ Aogra precisaremos ter uma biblioteca para fazer a navegação entre as páginas
  
     https://reactnavigation.org/docs/getting-started/
     
+    https://reactnavigation.org/docs/getting-started/
+    
+    
+    
     npm install @react-navigation/native
     
 Vamos parar o projeto, no terminal   `CTRL` + `c`  para parar o projeto. 
