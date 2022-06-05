@@ -203,6 +203,45 @@ Agora vamos criar as páginas seguintes,  pelo menos a estrutura delas.
   - (pasta) Search [ Pesquisa ]
     - index.js
 
+Agora importar cada uma destas pastas nas configurações das rotas, assim como havia sido realizado com o Home.
+
+E dentro da pasta Home ,  importar o Metodo que faz a navegação entre as páginas.
+
+Estrutura das páginas criadas e organizadas com o básico apenas para o teste de navegação.
+
+Organizada a pagina principal. 
+
+Agora vamos para o Back-end
+
+
+## Back-end
+
+Para ter acesso as informações que iram aparecer no sistema precisaremos do Back-end ( serviço que será consumido pelo nosso app ).
+
+Para isto teremos de usar um CMS para gerenciar o conteudo.
+
+### CMS
+
+"Um Sistema de Gerenciamento de Conteúdo  (Content Management System), ou simplesmente CMS, é um software executado no navegador permite que você crie, gerencie e modifique um website e seu conteúdo sem a necessidade de conhecimento de programação." ( explicação retirada da internet ).
+
+O CMS escolhido para este projeto foi o `strapi`  que pode ser encontrado em `https://strapi.io/` .
+
+Comando para criar o projeto `npx create-strapi-app@latest my-project`
+
+Fora da pasta do projeto ( no nosso caso a pasta 'blog') criar o projeto do CMS.
+
+Para ficar mais facil a identificação futura criamos assim: `npx create-strapi-app@latest blog-api`
+
+Depois de instalado, o sistema oferece tipos de criação, foi escolhido o `Quickstart`;
+
+
+
+
+
+
+
+
+
 
 
 
