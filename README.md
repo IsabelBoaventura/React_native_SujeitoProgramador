@@ -160,12 +160,9 @@ Escrevemos o comando, no video o comando foi  `expo install @react-navigation/na
 
 No meu terminal  o comando que funcionou foi: `npm install --save @react-navigation/native`
 
+Interessante,  os comandos da expo ( expo install ... ) nao estao funcionando dentro do sistema, assim as bibliotecas que o sistema precisa, estou instalando com o `npm`;
 
-
-
-
-            
-
-
-
-
+Próxima biblioteca:
+    `npm install --save react-native-screens react-native-safe-area-context`
+    
+Instalado com sucesso.
