@@ -198,6 +198,10 @@ Agora vamos criar as páginas seguintes,  pelo menos a estrutura delas.
 - (pasta) pages
   - (pasta) Details [ detalhes ]
     - index.js 
+  - (pasta) Category [ Categorias dos Posts ]
+    - index.js
+  - (pasta) Search [ Pesquisa ]
+    - index.js
 
 
 
