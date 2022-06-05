@@ -132,6 +132,38 @@ Criando novas pastas e arquivos:
    - (pasta) pages
         - (pasta) Home
             - (arquivo) index.js
+
+O arquivo da página Home, foi levado para o arquivo app.js ,entretanto no meu codigo esta apresentando erros. 
+
+
+No arquivo dele esta aparecendo o conteudo do Home dentro do arquivo App.js(). Entretanto o mesmo nao acontece com o meu.
+
+Achei que pudesse ser algo referente a cor,  ja que antes aparecia quando o fundo estava escuro, fiz as modificações,  e até agora nada. 
+
+## Vamos seguir
+
+Apesar de estar acusando erro,  vamos seguir com os codigos;
+
+Aogra precisaremos ter uma biblioteca para fazer a navegação entre as páginas 
+
+    https://reactnavigation.org/
+    
+ React Documents => Installation 
+ 
+    https://reactnavigation.org/docs/getting-started/
+    
+    npm install @react-navigation/native
+    
+Vamos parar o projeto, no terminal   `CTRL` + `c`  para parar o projeto. 
+
+Escrevemos o comando, no video o comando foi  `expo install @react-navigation/native`  mas o meu terminal recusou este comando.
+
+No meu terminal  o comando que funcionou foi: `npm install --save @react-navigation/native`
+
+
+
+
+
             
 
 
