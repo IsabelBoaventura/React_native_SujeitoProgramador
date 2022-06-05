@@ -166,3 +166,15 @@ Próxima biblioteca:
     `npm install --save react-native-screens react-native-safe-area-context`
     
 Instalado com sucesso.
+
+Agora para aparecer em tipo pilha na tela `stack`
+
+   `npm install --save @react-navigation/native-stack`
+   
+Instalado com sucesso.
+
+Agora rodar novamente o projeto `expo start` .
+
+Interessante 'expo start' não funciona dentro do terminal do VSCode,  mas no terminal normal funciona. 
+
+
