@@ -234,6 +234,33 @@ Para ficar mais facil a identificação futura criamos assim: `npx create-strapi
 
 Depois de instalado, o sistema oferece tipos de criação, foi escolhido o `Quickstart`;
 
+O proprio sistema me redirecionou para a pagina http://localhost:1337/admin/ onde  preenchi os dados .. salvei a senha `Strapi123`
+
+
+
+Area administrativa do nosso projeto:
+
+![image](https://user-images.githubusercontent.com/1613816/173201070-389fcae6-8cb3-4263-8190-59da679ffd40.png)
+
+Como entrar nele 
+![image](https://user-images.githubusercontent.com/1613816/173201092-8f854e00-b921-41f1-99a9-9051183f26ef.png)
+
+
+`Content-type-builder`
+
+`Create new colletion type `
+
+![image](https://user-images.githubusercontent.com/1613816/173201139-397d3b61-9eb5-4429-9f20-b8fca3bebea9.png)
+
+Criado 'Category' com dois campos um deles de texto 'nome' e outro de imagem  'icon';
+
+![image](https://user-images.githubusercontent.com/1613816/173201298-ca66428b-e2bb-4536-8e48-0bf3ebfa466c.png)
+
+
+
+
+**
+
 
 
 
